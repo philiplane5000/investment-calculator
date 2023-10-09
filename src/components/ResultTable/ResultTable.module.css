@@ -1,0 +1,31 @@
+.result {
+  max-width: 50rem;
+  margin: 2rem auto;
+  padding: 1rem;
+  table-layout: fixed;
+  border-spacing: 1rem;
+  text-align: right;
+}
+
+.result thead {
+  font-size: 0.7rem;
+  color: #83e6c0;
+}
+
+.result tbody {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 0.85rem;
+  color: #c2e9e0;
+}
+
+.alert {
+  padding: 1rem;
+  margin: 2rem auto;
+  max-width: 30rem;
+  border-radius: 4px;
+  background: linear-gradient(180deg, #307e6c, #2b996d);
+  color: #c2e9e0;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 0.85rem;
+  text-align: center;
+}
